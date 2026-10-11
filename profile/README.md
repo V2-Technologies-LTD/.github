@@ -20,15 +20,6 @@
 - **Data analytics & automation** — dashboards, anomaly detection, automated reporting
 - **Cloud & DevOps** — containerized infrastructure, Kubernetes, CI/CD
 
-## Products
-
-| Product | What it is |
-|---|---|
-| **EveryAI** | A conversation-based AI assistant with an integrated WhatsApp CRM, on web and iOS. |
-| **eCRM3** | A modular CRM and campaign platform: users, roles, locations, agencies, uploads, notifications and reports. |
-| **Shinsa AI** | An AI-assisted audit system that randomly audits retail point-of-sale market visits. |
-| **NeoDesk** | An image sharing platform for teams. |
-
 ## Trusted by
 
 - A leading telecom operator
